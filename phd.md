@@ -50,3 +50,6 @@ Analyze and improve the accuracy of parameters estimated by the SphygmoCor® dev
 
 ## Research Impact
 This research established the mathematical framework for non-invasive blood pressure estimation using machine learning techniques, potentially enabling continuous monitoring without invasive procedures. The methodologies developed have applications beyond cardiovascular measurements to other physiological signal analysis domains.
+
+## Historical Significance
+This work was pioneering in its application of machine learning to physiological signal analysis. Twenty years later, researchers are only now applying modern AI methods to similar problems, with the advantage of vastly more powerful tools. Using the relatively basic computational techniques available in the early 2000s, this research anticipated the current trend toward AI-based physiological signal processing and established foundational approaches that continue to be relevant.
