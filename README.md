@@ -2,7 +2,12 @@
 
 Senior Data Scientist and AI Research Expert with a focus on practical, effective solutions to complex problems.
 
-## Projects
+## Education & Research
+
+### [PhD Research: Machine Learning for Arterial Pressure Pulse Analysis](phd.md)
+Investigated the application of machine learning techniques to analyze arterial pressure waveforms, establishing the theoretical foundation for non-invasive blood pressure estimation and improving commercial diagnostic systems.
+
+## Professional Experience
 
 ### [SaltSifter - Advanced Hydroponic Nutrient Optimization](sifterlabs.md)
 Developing a revolutionary platform that formulates plant-specific nutrient solutions at 90% cost reduction through mathematical optimization and AI assistance.
