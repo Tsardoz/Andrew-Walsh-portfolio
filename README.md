@@ -33,9 +33,6 @@ Developed innovative research concepts including retinal vessel analysis for car
 ### [Physiological Data Analysis at Aspetar](aspetar.md)
 Applied data science at FIFA-accredited sports medicine hospital in Qatar, analyzing physiological data in extreme environments, developing early computer vision systems for athlete tracking, and creating mathematical models for physiological monitoring.
 
-### UNSW — Senior Lecturer in Electronic Engineering
-Taught undergraduate electrical engineering and postgraduate biomedical engineering during a one-year appointment, applying research experience to provide practical context for theoretical concepts.
-
 ### [Biomedical Device Development at Micromedical Industries](micromedical.md)
 Designed electronic hardware and firmware for ECG devices and telemetry systems at an early-stage medical technology startup that later became publicly listed as Ventracor.
 
