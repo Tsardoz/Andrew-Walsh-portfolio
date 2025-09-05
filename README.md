@@ -16,6 +16,9 @@ Led the technical development of an AI-powered fall detection system using compu
 ### [Data Integration for Educational Planning at Servian](servian.md)
 Developed database integration solutions for CQ University's student enrollment prediction system, creating data pipelines between SQL databases and machine learning models.
 
+### [Sports Performance Analytics at Brisbane Lions](brisbanelions.md)
+Created mathematical models of player and team performance that directly influenced coaching and recruitment decisions.
+
 
 
 ## Contact
