@@ -39,6 +39,9 @@ Taught undergraduate electrical engineering and postgraduate biomedical engineer
 ### [Biomedical Device Development at Micromedical Industries](micromedical.md)
 Designed electronic hardware and firmware for ECG devices and telemetry systems at an early-stage medical technology startup that later became publicly listed as Ventracor.
 
+### [Power Station Simulator Engineering at Costek](costek.md)
+Designed hardware systems and firmware for power station simulators used in operator training, creating interface boards with analog/digital I/O capabilities and programming 8051 microcontrollers.
+
 ## Contact
 
 Email: tsardoz@gmail.com  
