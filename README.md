@@ -31,7 +31,8 @@ Applied data science at FIFA-accredited sports medicine hospital in Qatar, analy
 ### UNSW — Senior Lecturer in Electronic Engineering
 Taught undergraduate electrical engineering and postgraduate biomedical engineering during a one-year appointment, applying research experience to provide practical context for theoretical concepts.
 
-
+### [Biomedical Device Development at Micromedical Industries](micromedical.md)
+Designed electronic hardware and firmware for ECG devices and telemetry systems at an early-stage medical technology startup that later became publicly listed as Ventracor.
 
 ## Contact
 
