@@ -25,7 +25,8 @@ Developed foundational statistical models for player evaluation while studying m
 ### [Medical Imaging & Sports Technology Research at U@MQ](uatmq.md)
 Developed innovative research concepts including retinal vessel analysis for cardiovascular diagnostics and advanced athlete tracking systems, securing project funding through academic partnerships.
 
-
+### [Physiological Data Analysis at Aspetar](aspetar.md)
+Applied data science at FIFA-accredited sports medicine hospital in Qatar, analyzing physiological data in extreme environments, developing early computer vision systems for athlete tracking, and creating mathematical models for physiological monitoring.
 
 ## Contact
 
