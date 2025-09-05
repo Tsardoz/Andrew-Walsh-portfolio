@@ -13,7 +13,8 @@ Pioneered a cost-effective fall detection system by modifying commercial camera 
 ### [Elderly Fall Detection System at HomeGuardian](homeguardian.md)
 Led the technical development of an AI-powered fall detection system using computer vision technology deployed on edge devices (eg. Raspberry Pi).
 
-
+### [Data Integration for Educational Planning at Servian](servian.md)
+Developed database integration solutions for CQ University's student enrollment prediction system, creating data pipelines between SQL databases and machine learning models.
 
 
 
