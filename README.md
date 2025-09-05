@@ -42,6 +42,9 @@ Designed electronic hardware and firmware for ECG devices and telemetry systems 
 ### [Power Station Simulator Engineering at Costek](costek.md)
 Designed hardware systems and firmware for power station simulators used in operator training, creating interface boards with analog/digital I/O capabilities and programming 8051 microcontrollers.
 
+### [Aerospace Sensor Development at GEC Avionics](gecavionics.md)
+Selected as one of only two Australian graduates to work on advanced aerospace sensing systems, designing hardware and firmware for fuel measurement systems and performing mathematical modeling of microwave-based tyre temperature sensors.
+
 ## Contact
 
 Email: tsardoz@gmail.com  
