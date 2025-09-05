@@ -17,9 +17,10 @@ Led the technical development of an AI-powered fall detection system using compu
 Developed database integration solutions for CQ University's student enrollment prediction system, creating data pipelines between SQL databases and machine learning models.
 
 ### [Sports Performance Analytics at Brisbane Lions](brisbanelions.md)
-Created mathematical models of player and team performance that directly influenced coaching and recruitment decisions.
+Developed mathematical models quantifying player contributions to game outcomes, built organizational analytics platforms, and created comprehensive player evaluation systems during the club's rise from last place to second within three years.
 
-
+### [Pioneering Player Evaluation at Adelaide Crows](adelaidecrows.md)
+Developed foundational statistical models for player evaluation while studying medicine, creating metrics to identify talent and support recruitment strategies.
 
 ## Contact
 
