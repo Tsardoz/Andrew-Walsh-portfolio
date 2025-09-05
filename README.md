@@ -22,6 +22,11 @@ Developed mathematical models quantifying player contributions to game outcomes,
 ### [Pioneering Player Evaluation at Adelaide Crows](adelaidecrows.md)
 Developed foundational statistical models for player evaluation while studying medicine, creating metrics to identify talent and support recruitment strategies.
 
+### [Medical Imaging & Sports Technology Research at U@MQ](uatmq.md)
+Developed innovative research concepts including retinal vessel analysis for cardiovascular diagnostics and advanced athlete tracking systems, securing project funding through academic partnerships.
+
+
+
 ## Contact
 
 Email: tsardoz@gmail.com  
