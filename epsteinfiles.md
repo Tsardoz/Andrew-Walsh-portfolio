@@ -70,7 +70,7 @@ I am developing a comprehensive web application to make the released Epstein cou
 ## Unique Competitive Advantages
 **Multimedia Processing Capability:** Unlike competitors focusing solely on document OCR, this platform processes both visual documents and audio depositions, creating the only comprehensive multimedia search database for the Epstein files.
 
-**Audio Content Discovery:** Hours of testimony and witness interviews processed through Whisper AI reveal critical information buried in otherwise inaccessible audio recordings, providing exclusive content for journalists and researchers.
+**Audio Content Discovery:** Hours of testimony and witness interviews processed through AI reveal critical information buried in otherwise inaccessible audio recordings, providing exclusive content for journalists and researchers.
 
 **Cross-Modal Intelligence:** AI systems can correlate information across documents, photos, and audio testimony to surface connections and patterns invisible in single-medium analysis.
 
