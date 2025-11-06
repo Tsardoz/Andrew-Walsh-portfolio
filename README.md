@@ -9,9 +9,6 @@ Investigated the application of machine learning techniques to analyze arterial 
 
 ## Professional Experience
 
-### [Epstein Files - Search dataset and generate podcasts](epsteinfiles.md)
-Took more than 30 000 photocopies of DOJ redacted records and made them searchable, generating podcasts as well. [See it in action](https://epstein-files.org/)
-
 ### [SaltSifter - Advanced Hydroponic Nutrient Optimization](sifterlabs.md)
 Developing a revolutionary platform that formulates plant-specific nutrient solutions at 90% cost reduction through mathematical optimization and AI assistance.
 
